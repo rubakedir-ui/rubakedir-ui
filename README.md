@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## 🔥 My Coding Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rubakedir-ui)](https://git.io/streak-stats)
+
+
+
+
 <!--
 **rubakedir-ui/rubakedir-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-(https://streak-stats.demolab.com?user=rubakedir-ui)
+
