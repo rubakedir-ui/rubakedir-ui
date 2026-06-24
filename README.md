@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+(https://streak-stats.demolab.com?user=rubakedir-ui)
+
+
 <!--
 **rubakedir-ui/rubakedir-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
